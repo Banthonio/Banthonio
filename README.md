@@ -1,4 +1,4 @@
-
+![image](https://raw.githubusercontent.com/Banthonio/Banthonio/main/banthonio.gif)
 #	Olá 😉
 
 I'm Bráulio António aka "**banthonio**", web developer from Angola. 
