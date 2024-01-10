@@ -34,10 +34,11 @@ I'm Bráulio António aka "**banthonio**", web developer from Angola. I like to 
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Google Dialogflow](https://img.shields.io/badge/-Google_Cloud-000?&logo=google-cloud)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 ##### Learning
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
 
 
 ## 🗂️ Latest Project
